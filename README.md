@@ -33,7 +33,8 @@ The study area covers **Nagaon District, Assam**, characterized by a mix of plai
 ## 🛠 Tools & Methods
 
 ### Software Used
-- ArcGIS (Spatial Analyst Extension)
+- ArcGIS 10.8
+- Spatial Analyst or Arc Hydro Tools
 
 ### Methodology
 1. DEM extraction using mask  
@@ -94,7 +95,3 @@ This map integrates:
 - Validation using observed stream networks  
 
 ---
-
-## 👤 Author
-**Hemungshew Borgohain**  
-BSc Geography | GIS & Remote Sensing  
